@@ -23,14 +23,18 @@ body:before {
 }
 .content {
   position: absolute;
-  top: 50%;
+  top: 48%;
   left: 50%;
   transform: translate(-50%, -65%);
   text-align: center;
 }
+.logo {
+  height: 27px;
+  width: auto;
+}
 .social {
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 27px;
   letter-spacing: 5px;
 }
 a {
